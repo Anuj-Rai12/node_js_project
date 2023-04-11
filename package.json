@@ -5,8 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js",
-    "start_server":"node app.js"
+    "start": "nodemon app.js",
+    "start_server": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Anuj-Rai12/node_js_project/issues"
   },
-  "homepage": "https://github.com/Anuj-Rai12/node_js_project#readme"
+  "homepage": "https://github.com/Anuj-Rai12/node_js_project#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
 }

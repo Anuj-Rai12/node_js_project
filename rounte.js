@@ -17,7 +17,7 @@ const  getServerInfo=(req,res)=>{
               console.log(chunk);
               body.push(chunk);
           });
-  
+
           req.on('end',()=>{
               const typeMessage=Buffer.concat(body).toString();
               const message=typeMessage.split('=')[1];
