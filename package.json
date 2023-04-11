@@ -1,0 +1,24 @@
+{
+  "name": "module1",
+  "version": "1.0.0",
+  "description": "Learning Node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start_server":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anuj-Rai12/node_js_project.git"
+  },
+  "keywords": [
+    "Anuj_project"
+  ],
+  "author": "Anuj Rai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anuj-Rai12/node_js_project/issues"
+  },
+  "homepage": "https://github.com/Anuj-Rai12/node_js_project#readme"
+}
