@@ -1,0 +1,5 @@
+Alt + Shift + ↓ for copy the line downwords
+
+Shift + Alt + F for bueaty the code
+
+ctrl +K + C for comment out the code!!
